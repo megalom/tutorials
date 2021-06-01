@@ -3,6 +3,8 @@ package ru.megalomaniac.tests.course2.generics;
 import java.util.ArrayList;
 import java.util.List;
 
+// Generics - нужны для типобезопасности и для переиспользования кода
+
 public class GenericsExample {
     public static void main(String[] args) {
         List<String> list = new ArrayList<>();
